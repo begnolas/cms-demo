@@ -1,0 +1,28 @@
+{
+  "name": "cms-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begnolas/cms-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/begnolas/cms-demo/issues"
+  },
+  "homepage": "https://github.com/begnolas/cms-demo#readme",
+  "dependencies": {
+    "tinacms": "^2.9.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.11.0",
+    "@types/node": "^24.9.2"
+  }
+}
